@@ -6,7 +6,7 @@ This python script uses library like requests,socket to clone website.This scrip
 ## Features
 - Web Cloner
 - Clones also the assests of the website
-- 
+
 > Think.Code.Build
 ## Installation
 
