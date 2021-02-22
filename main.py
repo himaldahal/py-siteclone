@@ -1,3 +1,8 @@
+'''
+
+@author Himal Dahal
+github : https://github.com/himaldahal/
+'''
 import requests
 import sys
 import socket
@@ -11,7 +16,7 @@ def download(item):
 
 	if any(s in item for s in dataTypesToDownload):
 
-		if " " in item:  # https://stackoverflow.com/a/4172592
+		if " " in item: 
 			return
 
 		while item.startswith("/"):
