@@ -1,5 +1,7 @@
-# Py-SiteClone 
-This python script uses library like requests,socket to clone website.This script is build by Himal Dahal.This is a hobby project.
+### Py-SiteClone 
+
+# This python script Clones Website with its assets like images,files.It Requires modules like requests,socket 
+
 - Py-SiteClone
 - Web Cloner
 
